@@ -1,0 +1,1 @@
+基于express和mysql的登陆注册简单页面，主要用于学习基本的express的使用和node连接mysql数据库
